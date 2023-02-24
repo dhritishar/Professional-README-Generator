@@ -11,7 +11,7 @@ This is a screenshot of the intended usage of this README.md file generator
 
  ![alt text](./Assets/Screenshot%202023-02-16%20at%2011.24.11%20AM.png)
 
- link to live page:
+ link to live page: https://dhritishar.github.io/Professional-README-Generator/
 
 
 ## License
